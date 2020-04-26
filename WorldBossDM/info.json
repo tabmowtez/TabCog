@@ -1,0 +1,16 @@
+{
+    "author": [
+        "tabmowtez"
+    ],
+    "install_msg": "Thanks for installing!",
+    "name": "WorldBossDM",
+    "short": "DM a Role.",
+    "description": "Send a hardcoded DM to users of a specified role",
+    "requirements": [],
+    "tags": [
+        "tools",
+        "utility",
+        "moderation",
+        "dm"
+    ]
+}
